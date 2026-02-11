@@ -1,0 +1,621 @@
+relaunch_sim: Time (s): cpu = 00:00:02 ; elapsed = 00:00:14 . Memory (MB): peak = 1424.074 ; gain = 0.000
+run all
+
+--- Testing Sample 0 ---
+Test Vector: 0f708a3b1b701300 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 1 ---
+Test Vector: 69a38e7e249b4d5e | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 2 ---
+Test Vector: 69829b671e951a66 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 3 ---
+Test Vector: 00e6a3a203efff11 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 4 ---
+Test Vector: 1e75865230997e08 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 5 ---
+Test Vector: 0fa17d0000783a6e | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 6 ---
+Test Vector: 1e756d0000780d04 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 7 ---
+Test Vector: 1ea39b433c856d11 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 8 ---
+Test Vector: 7899b40000722704 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 9 ---
+Test Vector: 4b63640000877a11 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 10 ---
+Test Vector: 96d69b0000996337 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 11 ---
+Test Vector: 0f80964d069b4700 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 12 ---
+Test Vector: 1e918e3900720211 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 13 ---
+Test Vector: 2da396403983651a | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 14 ---
+Test Vector: 3ca8b450007049b2 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 15 ---
+Test Vector: 1ea36036668b1504 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 16 ---
+Test Vector: 0f808a4b3c814d59 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 17 ---
+Test Vector: 3cc9a30000859a2a | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 18 ---
+Test Vector: 4b809b4600741a2f | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 19 ---
+Test Vector: 2d877136307c2d0d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 20 ---
+Test Vector: 2da6a33b18723337 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 21 ---
+Test Vector: 1edeb85f24b37a0d | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 22 ---
+Test Vector: 1e806d271b627800 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 23 ---
+Test Vector: 0f709f580c7c1808 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 24 ---
+Test Vector: 69858a52009d382a | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 25 ---
+Test Vector: 3cab960000602ba6 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 26 ---
+Test Vector: 9661ab0000872748 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 27 ---
+Test Vector: 2d9ea75527852f15 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 28 ---
+Test Vector: 4b87ab4d009f2d48 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 29 ---
+Test Vector: 0f80791a00666500 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 30 ---
+Test Vector: 9694000000002726 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 31 ---
+Test Vector: 78fa9b000068ee4c | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 32 ---
+Test Vector: 0f70323106706700 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 33 ---
+Test Vector: 0f7a922700480f00 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 34 ---
+Test Vector: 0fdb9b0000950248 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 35 ---
+Test Vector: 1eba0000006e221e | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 36 ---
+Test Vector: 2d6b8e4d21816d11 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 37 ---
+Test Vector: c3c2b85f2aa3ea4c | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 38 ---
+Test Vector: 1e73a7241262240d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 39 ---
+Test Vector: 1e70794306729404 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 40 ---
+Test Vector: 1e8a825212640b00 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 41 ---
+Test Vector: 8747a75f00850455 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 42 ---
+Test Vector: 5ac4a36a2ab9691a | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 43 ---
+Test Vector: 1e9e645230a95e15 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 44 ---
+Test Vector: 00b2822c3f581c00 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 45 ---
+Test Vector: 5a9e8e4d2478512f | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 46 ---
+Test Vector: 009e9234006e2440 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 47 ---
+Test Vector: 00c2bc7600a93e00 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 48 ---
+Test Vector: 4b8a826a27915c11 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 49 ---
+Test Vector: 1e8ac00000aba38c | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 50 ---
+Test Vector: c387920000892484 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 51 ---
+Test Vector: 5a82bc64008f7e1e | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 52 ---
+Test Vector: c3c2bc55096c8b5e | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 53 ---
+Test Vector: 2d8a823e00681e11 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 54 ---
+Test Vector: 2d5e8e480c762d08 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 55 ---
+Test Vector: 0080b89b21bdbd2a | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 56 ---
+Test Vector: 0fe6000000af2b55 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 57 ---
+Test Vector: 0f808a27125e7e15 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 58 ---
+Test Vector: 2d6392000083294c | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 59 ---
+Test Vector: 1ec76d46a29b2211 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 60 ---
+Test Vector: 69877d3e006a2f22 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 61 ---
+Test Vector: 4bb8ab4354814f9d | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 62 ---
+Test Vector: 69adbc0000781c7b | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 63 ---
+Test Vector: 3c998e0000768737 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 64 ---
+Test Vector: 87708200005a0d33 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 65 ---
+Test Vector: 4bf09f463fafcc88 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 66 ---
+Test Vector: 78e6966c27838940 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 67 ---
+Test Vector: 009e960000932784 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 68 ---
+Test Vector: 0078924624af3a00 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 69 ---
+Test Vector: 3ca3b434518d2008 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 70 ---
+Test Vector: 87b8a77627997851 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 71 ---
+Test Vector: 0f5ca3810c854900 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 72 ---
+Test Vector: 2da68600005c3104 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 73 ---
+Test Vector: 878fab5236892740 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 74 ---
+Test Vector: 3cbaa300009b5ec4 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 75 ---
+Test Vector: 0075d16415afc93c | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 76 ---
+Test Vector: 2dbd8a4000832704 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 77 ---
+Test Vector: 1e8579671b8d1e11 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 78 ---
+Test Vector: 0f7571401e642008 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 79 ---
+Test Vector: 9694cd000060c937 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 80 ---
+Test Vector: 1ee0b800005c3604 | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 81 ---
+Test Vector: 0fbd8e4b27763a59 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 82 ---
+Test Vector: 0f66962e0c6a2b0d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 83 ---
+Test Vector: 2df092393c934740 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 84 ---
+Test Vector: 1e5e000000000404 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 85 ---
+Test Vector: 1eba92626c703822 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 86 ---
+Test Vector: 3c9c8e00008d4222 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 87 ---
+Test Vector: 00757d00008f2711 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 88 ---
+Test Vector: 0fba750000766722 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 89 ---
+Test Vector: 4bb2865a2a724715 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 90 ---
+Test Vector: 0f85790000621800 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 91 ---
+Test Vector: 1e8fa3812a9f150d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 92 ---
+Test Vector: 2ddbab7c8a9bff11 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 93 ---
+Test Vector: 0fa3ab2c366e0904 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 94 ---
+Test Vector: 3c7300000070722a | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 95 ---
+Test Vector: 00d600000083a326 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 96 ---
+Test Vector: 1e7a71241b689004 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 97 ---
+Test Vector: 2d8f5c21005a0d04 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 98 ---
+Test Vector: 7885d15d00af2266 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 99 ---
+Test Vector: 0f96795d1b872708 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 100 ---
+Test Vector: 3cf0e65000728144 | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 101 ---
+Test Vector: 0fb8ab6700a7721e | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 102 ---
+Test Vector: 69cc8600006e2d51 | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 103 ---
+Test Vector: 9680b45f00b7e348 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 104 ---
+Test Vector: 878fab3e0070ff7b | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 105 ---
+Test Vector: 2d4cab48008b226a | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 106 ---
+Test Vector: 0080862c00542400 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 107 ---
+Test Vector: 0f9cbc8342c7332a | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 108 ---
+Test Vector: 2d808e3b187eba1e | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 109 ---
+Test Vector: 1eb5ab2e12629200 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 110 ---
+Test Vector: 0f879f0000971a15 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 111 ---
+Test Vector: 787a960000955699 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 112 ---
+Test Vector: 00e07d4b908bd400 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 113 ---
+Test Vector: ffd1966a21a59f6e | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 114 ---
+Test Vector: 1e859d00005e6788 | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 115 ---
+Test Vector: 2d80823115582b15 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 116 ---
+Test Vector: 00e6b87199af1e15 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 117 ---
+Test Vector: 2d829b000076092f | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 118 ---
+Test Vector: 1e80863b00763e00 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 119 ---
+Test Vector: 2d6369521b7c2415 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 120 ---
+Test Vector: 1e8aa700006c2784 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 121 ---
+Test Vector: 69bfa34b278d838c | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 122 ---
+Test Vector: 87ab9b55126851ff | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 123 ---
+Test Vector: 0f70a346098b0404 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 124 ---
+Test Vector: 0f7aab40368d205e | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 125 ---
+Test Vector: 69adbc6a0081424c | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 126 ---
+Test Vector: 0f8a7d76368f490d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 127 ---
+Test Vector: 0f8fa774278d1e0d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 128 ---
+Test Vector: 1e87754630744b04 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 129 ---
+Test Vector: 1e8092290c52221a | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 130 ---
+Test Vector: 0fb8b44d6378ae08 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 131 ---
+Test Vector: 0f7a8a272a5c5804 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 132 ---
+Test Vector: 5a94c90000721126 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 133 ---
+Test Vector: 699eb40000972f80 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 134 ---
+Test Vector: 87d1b036007ca12f | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 135 ---
+Test Vector: 69b57d55397483aa | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 136 ---
+Test Vector: 5ab8964645892751 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 137 ---
+Test Vector: 4b8a9d43009165a6 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 138 ---
+Test Vector: 2d70791c0f642904 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 139 ---
+Test Vector: 0f669b1c12786004 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 140 ---
+Test Vector: 3ceb000000721c40 | Expected: 1
+RESULT: PASS | Predicted: 1
+
+--- Testing Sample 141 ---
+Test Vector: 0f8a8e31006a110d | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 142 ---
+Test Vector: a5858e6700b90b59 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 143 ---
+Test Vector: 1e9992521e9dae08 | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 144 ---
+Test Vector: 1e6b8800009fb61a | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 145 ---
+Test Vector: 78c4a35200834d66 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 146 ---
+Test Vector: 1e8a6d4312833304 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 147 ---
+Test Vector: 3cfa9264de93ff2a | Expected: 0
+RESULT: FAIL | Predicted: 1 (Expected: 0)
+
+--- Testing Sample 148 ---
+Test Vector: 87876d00007c4059 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 149 ---
+Test Vector: 96a39f4824912b4c | Expected: 0
+RESULT: PASS | Predicted: 0
+
+--- Testing Sample 150 ---
+Test Vector: 5af2c000008f2bbf | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 151 ---
+Test Vector: 969e9243247c1a55 | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 152 ---
+Test Vector: 69cc7152367a6d4c | Expected: 1
+RESULT: FAIL | Predicted: 0 (Expected: 1)
+
+--- Testing Sample 153 ---
+Test Vector: 0f8792482a890d04 | Expected: 0
+RESULT: PASS | Predicted: 0
+
+All tests completed.
+$finish called at time : 957985 ns : File "D:/Mtech/Hardware For AI/Assignment-1/knn_model/src/tb/tb_knn_top.v" Line 86
